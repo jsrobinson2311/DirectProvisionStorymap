@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "chapter": "Direct Provision Centres in Ireland", "zoom": 7, "alt": "Hartford HS historic image from 1847", "image": "http:\/\/www.asylumarchive.com\/uploads\/1\/3\/7\/3\/13738784\/4933965_orig.jpg", "source-credit": "Source: Asylum Archive", "source-link": "http:\/\/www.asylumarchive.com\/", "description": "In Ireland in October 2018, there were 35 Direct Provision Centres. These centres are run by the Reception and Integration Agency, a branch of the Department of Justice. In October 2018 there were 6,209 residents in Direct Provision.<br> <br> No one chooses to live in Direct Provision.", "lon": -8.24389, "lat": 53.0 }, "geometry": { "type": "Point", "coordinates": [ -8.24389, 53.0 ] } },
+{ "type": "Feature", "properties": { "id": 2, "chapter": "County Clare", "zoom": 10, "alt": "Hartford HS historic image from 1905", "image": "img\/1905-HPHS-postcard.jpg", "source-credit": "Source: Flickr", "source-link": "https:\/\/flic.kr\/p\/FNxWf8", "description": "There were two direct provision centres in County Clare", "lon": -8.983, "lat": 52.844349 }, "geometry": { "type": "Point", "coordinates": [ -8.983, 52.844349 ] } },
+{ "type": "Feature", "properties": { "id": 3, "chapter": "County Cork", "zoom": 10, "alt": "Hartford HS image from 2011", "image": "https:\/\/farm6.staticflickr.com\/5693\/20860554099_1a9466a11e_c.jpg", "source-credit": "Source: Carlos Velazquez\/Flickr", "source-link": "https:\/\/flic.kr\/p\/xMnMXR", "description": "There were six Direct Provision centres in County Cork", "lon": -8.724192, "lat": 51.94753 }, "geometry": { "type": "Point", "coordinates": [ -8.724192, 51.94753 ] } }
+]
+}
