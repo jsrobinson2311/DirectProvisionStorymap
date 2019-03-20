@@ -1,6 +1,12 @@
 # leaflet-storymap
 Leaflet storymap with scroll-driven navigation for narrative and point markers from easy-to-learn template, with GeoJSON data file
 
+## Live Site
+https://sashadb.github.io/DirectProvisionStorymap/
+
+##Edits
+This map has two seperate geojson layers. One layer has all the points of interest, in this case the location of centres. The other layer is invisible and is all the chapters for the storymap.
+
 ## Demo
 http://datavizforall.github.io/leaflet-storymap/
 
